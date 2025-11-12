@@ -12,9 +12,12 @@ The tool is available from the notebook `WaterDRoP.ipynb`. It is intended to be 
 ## Training Dataset
 The complete dataset of experimental hydrolysis rates used to train WaterDRoP is given in the file `dataset.xlsx`.
 
-## Citation and Acknowledgments
+## Reference
 Information on model development and performance is described in the publication [paper citation here].
-This work was supported by the MIT Office of Graduate Education and conducted using computing resources from the MIT Office of Research and Computing Data (ORCD). Artificial intelligence models from OpenAI (ChatGPT) and Google (Gemini) were used as coding aids in the development of WaterDRoP.
+
+## Acknowledgments
+**Funding:** This work was supported by the MIT Office of Graduate Education and conducted using computing resources of the MIT Office of Research and Computing Data (ORCD).  
+**AI Use:** Artificial intelligence models from OpenAI (ChatGPT) and Google (Gemini) were used as coding aids in the development of WaterDRoP.
 
 ## Contact
 Amélie Lemay, Massachusetts Institute of Technology
