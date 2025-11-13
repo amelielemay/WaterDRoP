@@ -12,7 +12,7 @@ The tool is available from the notebook `WaterDRoP.ipynb`. It is intended to be 
 ## Training Dataset
 The complete dataset of experimental hydrolysis rates used to train WaterDRoP is given in the file `dataset.xlsx`.
 
-## Citation
+## Reference
 Information on model development and performance is described in the publication [paper citation here].
 
 ## Acknowledgments
