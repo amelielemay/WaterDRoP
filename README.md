@@ -1,8 +1,6 @@
 <p align="center">
 <img width="616" height="127" alt="Screenshot 2025-11-09 at 12 12 21 PM" src="https://github.com/user-attachments/assets/ef926da7-85d2-490a-80c2-bf8ed18ac6fd" />
 
-
-
 # Hydrolysis Rate Estimation
 WaterDRoP is a machine learning model for predicting the rate of hydrolysis from chemical structure under environmentally relevant conditions (pH 7 and 25&deg;C).
 
@@ -12,7 +10,7 @@ The tool is available from the notebook `WaterDRoP.ipynb`. It is intended to be 
 ## Training Dataset
 The complete dataset of experimental hydrolysis rates used to train WaterDRoP is given in the file `dataset.xlsx`.
 
-## Reference
+## Citation
 Information on model development and performance is described in the publication [paper citation here].
 
 ## Acknowledgments
