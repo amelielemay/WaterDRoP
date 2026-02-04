@@ -1,5 +1,5 @@
 <p align="center">
-<img width="681" height="148" alt="Screenshot 2026-02-04 at 3 09 17 AM" src="https://github.com/user-attachments/assets/d74689ad-777b-4d82-ac3d-2076723f2bb5" />
+<img width="628" height="137" alt="Screenshot 2026-02-04 at 3 09 17 AM" src="https://github.com/user-attachments/assets/d74689ad-777b-4d82-ac3d-2076723f2bb5" />
 
 
 # Hydrolysis Rate Estimation
