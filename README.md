@@ -15,7 +15,7 @@ Information on model development and performance is described in the publication
 
 ## Acknowledgments
 **Funding:** This work was supported by the MIT Office of Graduate Education and conducted using computing resources of the MIT Office of Research and Computing Data (ORCD).  
-**AI Use:** Artificial intelligence models from OpenAI (ChatGPT) and Google (Gemini) were used as coding aids in the development of WaterDRoP.
+**AI Use:** Artificial intelligence models from OpenAI (ChatGPT), Anthropic (Claude), and Google (Gemini) were used as coding aids in the development of WaterDRoP.
 
 ## Contact
 Amélie Lemay, Massachusetts Institute of Technology
