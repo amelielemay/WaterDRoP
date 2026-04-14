@@ -1,5 +1,6 @@
 <p align="center">
-<img width="624" height="131" alt="Screenshot 2026-02-24 at 8 45 03 AM" src="https://github.com/user-attachments/assets/6444617f-ed69-4ad7-a958-016b068be4b1" />
+  <img width="681" height="143" alt="Screenshot 2026-04-14 at 6 03 34 PM" src="https://github.com/user-attachments/assets/c8c4cf39-afb0-4c2b-978f-70b26b47a487" />
+
 
 # Hydrolysis Rate Estimation
 WaterDRoP is a machine learning model for predicting the rate of hydrolysis from chemical structure under environmentally relevant conditions (pH 7 and 25&deg;C).
