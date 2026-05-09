@@ -12,7 +12,7 @@ The tool is available from the notebook `WaterDRoP.ipynb`. It is intended to be 
 The complete dataset of experimental hydrolysis rates used to train WaterDRoP is given in the file `dataset.xlsx`.
 
 ## Citation
-Lemay, A.C.; Coley, C.W.; Plata, D.L. "Hydrolysis Reaction Rate Prediction Using Machine Learning: WaterDRoP." *Environ. Sci. Technol.* 2026, XX, XXXX-XXXX. DOI: [10.1021/acs.est.5c16184](https://doi.org/10.1021/acs.est.5c16184)
+Lemay, A.C.; Coley, C.W.; Plata, D.L. "Hydrolysis Reaction Rate Prediction Using Machine Learning: WaterDRoP." *Environ. Sci. Technol.* 2026, 60(17), 13088-13098. DOI: [10.1021/acs.est.5c16184](https://doi.org/10.1021/acs.est.5c16184)
 
 ## Acknowledgments
 **Funding:** This work was supported by the MIT Office of Graduate Education and conducted using computing resources of the MIT Office of Research and Computing Data (ORCD).  
